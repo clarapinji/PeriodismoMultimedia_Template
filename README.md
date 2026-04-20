@@ -58,18 +58,16 @@ Plataforma de vídeo (YouTube o Vimeo) para teaser y tráiler
 
 ### Metodología
 
-Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences). 
 
 ### Etapa 1: Ideación de proyecto 
-
+El proyecto se baso en un webdoc previamente diseñado que planteaba mostrar aquello que la industria de la moda esconde utilizando la estetica de la página web de zara. Al pinchar en cada prenda aparecería un video que muestra su fabricación o desecho. Este webdoc planteaba un problema: ¿porque el usuario iba a continuar viendo los videos al ser no haber una historia lineal y ser el proceso repetitivo?. Por eso planteamos hacerlo en forma de juego para que completar el juego fuera la motivación del usuario para ver todos los videos. Además se planeteo que los videos siguieran un orden cronologico: fabricación, venta, y desecho. De esta manera el webdoc tenía un `prptagonista, el usuario y un objetivo, vestir a un maniqui. Se creo con un miró un diagrama, y con canva se planteo una estetica. 
 
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
-
+La inspiración primera del proyecto fueron las tiendas de fasfashion de las que sacamos la estetica. También nos influenciamos por los juegos de vestir maniquis planteados usualmente paraa niñas. Tamibén nos inspiramos en el reportage multimedia "Reportaje multimedia. Fast Fashion: moda rápida, impacto duradero" hecho poor la universidad de valladolid.
+Asimismo, nos informamos sobre los daños que produce la moda rapida al medioambiente para incluirlos en los videos del webdoc. Nos informamos sobre el gasto de agua, las emisiones de co2 y los vertederos de ropa, elegimos incluir videos sobre el vertedero del desierto de atacama. 
 
 **Necesidad/oportunidad** 
 
@@ -99,7 +97,6 @@ En conjunto, estos perfiles representan desde consumidoras frecuentes de fast fa
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
-(ejemplos/alternativas) 
 * documental interactivo 
 * videojuego 
 * ... 
@@ -130,8 +127,9 @@ En conjunto, estos perfiles representan desde consumidoras frecuentes de fast fa
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
+* Test con usuarios (...): test enviado por email 2 meses después preguntando sobre cambios en el consumo de ropa tras consumir el webdoc
+* Estadisticas de uso 
+* Seguidores en redes sociales
 
 
 
@@ -139,11 +137,9 @@ En conjunto, estos perfiles representan desde consumidoras frecuentes de fast fa
 
 ### Conclusiones y trabajo futuro
 
+El proyecto se logro a medias, la idea esta completamente planteada: una web con apariencia de tienda de ropa donde el usuario tiene que formar un outfit completo al lo largo del cual verá pequeños videos que le muestran lo que la industria de la moda oculta. La paleta de colores será blanca, negra y marrón. Los videos serán sobre la fabricación, la venta y el desecho de la ropa. El primer problema que encontramos fue como conseguir que el usaurio llegue hasta el final y después como lograr que se identifique con el problema. Esto lo solucionamos con la gamificación del proyecto. Aquií tuvimos otro problema: el proyecto es de amplia magnitud, crear un juego requiero horas de programación, a su vez los clips necesitan ser grabados algunos en localizaciones lejanas. Es un proyecto que está preparado para terminarse a largo plazo pero no era viable con el tiempo que duro la asignatura. El proyecto necesita buenos graficos que imiten realmente a las tiendas de ropa y un maniqui que el usuario pueda personalizar con sus rasgos para que se identifique. Le hace falta además, que una vez terminado el juego se muestren opciones sobre como comprar ropa de forma sostenible para que el proyecto tenga un impacto real y tangible en la vida de los usuarios. Podría incluirse anuncios de marcas sostenibles en el webdoc como forma de financiación. Se está tratando un problema urgente que interpele a todos los ciudadanos, además existen personas que ya están interesadas en la moda sostenible. Empresas de moda sostenible y el ministerio para la transición ecologica y reto demografico podrían estar interesados en financiar el proyetco. 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+
 
 
 Referencias y recursos: 
